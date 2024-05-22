@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-latent-modifiers"
+description = "Nodes: Latent Diffusion Mega Modifier. ComfyUI nodes which modify the latent during the diffusion process. (Sharpness, Tonemap, Rescale, Extra Noise)"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Clybius/ComfyUI-Latent-Modifiers"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Latent-Modifiers"
+Icon = ""
